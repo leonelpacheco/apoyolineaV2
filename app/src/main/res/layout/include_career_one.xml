@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/txt_sortone"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/includecareer_txt_texttsu"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txt_careerone"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/includecareer_txt_tsu"
+        android:textColor="@color/grey_60"
+        app:layout_constraintEnd_toEndOf="@+id/txt_sortone"
+        app:layout_constraintStart_toStartOf="@+id/txt_sortone"
+        app:layout_constraintTop_toBottomOf="@+id/txt_sortone" />
+
+    <TextView
+        android:id="@+id/txt_sorttwo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/includecareer_txt_textdegree"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/txt_careerone"
+        app:layout_constraintTop_toBottomOf="@+id/txt_careerone" />
+
+    <TextView
+        android:id="@+id/txt_DegreeOne"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/includecareer_txt_DegreeOne"
+        app:layout_constraintEnd_toEndOf="@+id/txt_sorttwo"
+        app:layout_constraintStart_toStartOf="@+id/txt_sorttwo"
+        app:layout_constraintTop_toBottomOf="@+id/txt_sorttwo" />
+
+    <TextView
+        android:id="@+id/txt_Degreetwo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/includecareer_txt_Degreetwo"
+        app:layout_constraintEnd_toEndOf="@+id/txt_DegreeOne"
+        app:layout_constraintStart_toStartOf="@+id/txt_DegreeOne"
+        app:layout_constraintTop_toBottomOf="@+id/txt_DegreeOne" />
+
+    <TextView
+        android:id="@+id/Degreethree"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/includecareer_txt_Degreethree"
+        app:layout_constraintEnd_toEndOf="@+id/txt_Degreetwo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_Degreetwo" />
+
+    <TextView
+        android:id="@+id/Degreefour"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/includecareer_txt_Degreefour"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/Degreethree"
+        app:layout_constraintTop_toBottomOf="@+id/Degreethree" />
+
+    <TextView
+        android:id="@+id/Degreefive"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/includecareer_txt_Degreefive"
+        app:layout_constraintEnd_toEndOf="@+id/Degreefour"
+        app:layout_constraintStart_toStartOf="@+id/Degreefour"
+        app:layout_constraintTop_toBottomOf="@+id/Degreefour" />
+
+    <TextView
+        android:id="@+id/Degreesix"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/includecareer_txt_Degreesix"
+        app:layout_constraintEnd_toEndOf="@+id/Degreefive"
+        app:layout_constraintStart_toStartOf="@+id/Degreefive"
+        app:layout_constraintTop_toBottomOf="@+id/Degreefive" />
+
+    <TextView
+        android:id="@+id/Degreeseven"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/includecareer_txt_Degreeseven"
+        app:layout_constraintEnd_toEndOf="@+id/Degreesix"
+        app:layout_constraintStart_toStartOf="@+id/Degreesix"
+        app:layout_constraintTop_toBottomOf="@+id/Degreesix" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

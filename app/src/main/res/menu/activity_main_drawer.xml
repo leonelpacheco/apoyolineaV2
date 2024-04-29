@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Inicio" />
+
+        <item
+            android:id="@+id/nav_requirements_recommendations"
+            android:icon="@drawable/ic_requirements_recommendations"
+            android:title="Requisitos y recomendaciones" />
+
+        <item
+            android:id="@+id/nav_carreras"
+            android:icon="@drawable/ic_school"
+            android:title="Carreras" />
+
+
+        <item
+            android:id="@+id/nav_procesoregistro"
+            android:icon="@drawable/ic_registration_process"
+            android:title="Proceso de Registro" />
+
+        <item
+            android:id="@+id/nav_tipsexamen"
+            android:icon="@drawable/ic_exam_tips"
+            android:title="Tips para el examen" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="Acerca de" />
+    </group>
+</menu>

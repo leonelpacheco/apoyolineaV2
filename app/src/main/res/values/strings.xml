@@ -1,0 +1,310 @@
+<resources>
+    <string name="app_name">apoyoulineav2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Apoyo Proceso Universidad en Linea</string>
+    <string name="nav_header_subtitle">Versión 1.0</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+
+
+                  <!--fragment_about-->
+
+    <string name="designsabout_txt_title">Universidad en Linea</string>
+    <string name="designsabout_txt_textversion">Versión</string>
+    <string name="designsabout_txt_version">1.0</string>
+    <string name="designsabout_txt_textlastupdate">Ultima actualización</string>
+    <string name="designsabout_txt_lastupdate">Agosto 2023</string>
+    <string name="about_txt_textahutor">Autor</string>
+    <string name="about_txt_ahutor">Janeth Puc Maas</string>
+    <string name="about_txt_textcompany">Compañia</string>
+    <string name="about_txt_company">Soluciones Tecnológicas DenariusPak</string>
+    <string name="designsabout_txt_about">Somos una empresa dedicada al desarrollo de software, enfocados en tecnologías web y móviles</string>
+    <string name="about_txt_textprivacypolicies">Politica de Privacidad</string>
+    <string name="about_txt_privacypolicies"></string>
+
+
+    <string name="about_txt_title">Universidad en Linea</string>
+    <string name="about_txt_subtitle">Universidad abierta y a distancia de México</string>
+    <string name="about_txt_description">La Universidad Abierta y a Distancia de México es un órgano desconcentrado de la Secretaría de Educación Pública,
+        que oferta educación superior en la modalidad abierta y a distancia.
+    El registro como aspirantes de la Universidad en Linea está sujeto a que exista previamente una convocatoria disponible la cual, se publica oportunamente en el portal</string>
+    <string name="about_txt_link">
+
+    </string>
+    <string name="about_txt_descriptiontwo">Esta aplicación tiene como finalidad apoyar con información y algunos tips para quien esté iniciando o requiera ingresar al proceso de selección a la
+    universidad abierta y a distancia </string>
+
+
+
+    <!--fragment_container_career-->
+
+    <string name="containercareer_txt_sortone">Ciencias de la Salud, Biológicas y Ambientales</string>
+    <string name="containercareer_txt_sorttwo">Ciencias Exactas, Ingeniería y Tecnología</string>
+    <string name="containercareer_txt_sortthree">Ciencias Sociales y Administrativas</string>
+
+
+    <!--include_career_one-->
+
+    <string name="includecareer_txt_texttsu">Técnico Superior Universitario</string>
+    <string name="includecareer_txt_tsu">Urgencias Médicas</string>
+    <string name="includecareer_txt_textdegree">Licenciatura</string>
+    <string name="includecareer_txt_DegreeOne">Ingeniería de Energías Renovables</string>
+    <string name="includecareer_txt_Degreetwo">Ingeniería en Biotecnología</string>
+    <string name="includecareer_txt_Degreethree">Gerencia de Servicios de Salud</string>
+    <string name="includecareer_txt_Degreefour">Nutrición Aplicada</string>
+    <string name="includecareer_txt_Degreefive">Promoción y Educación para la Salud</string>
+    <string name="includecareer_txt_Degreesix">Seguridad Alimentaria</string>
+    <string name="includecareer_txt_Degreeseven">Tecnología Ambiental</string>
+
+
+    <string name="includecareertwo_txt_textdegree">Licenciatura</string>
+    <string name="includecareertwo_txt_DegreeOne">Ingeniería en Desarrollo de Software</string>
+    <string name="includecareertwo_txt_Degreetwo">Ingeniería en Logística y Transporte</string>
+    <string name="includecareertwo_txt_Degreethree">Ingeniería en Telemática</string>
+    <string name="includecareertwo_txt_Degreefour">Enseñanza de Matemáticas</string>
+    <string name="includecareertwo_txt_Degreefive">Licenciatura en Ingeniería en Gestión Industrial</string>
+    <string name="includecareertwo_txt_Degreesix">Matemáticas</string>
+
+
+    <string name="includecareerthree_txt_textdegree">Licenciatura</string>
+    <string name="includecareerthree_txt_DegreeOne">Administración de Empresas Turísticas</string>
+    <string name="includecareerthree_txt_Degreetwo">Contaduria y Finanzas Públicas</string>
+    <string name="includecareerthree_txt_Degreethree">Derecho</string>
+    <string name="includecareerthree_txt_Degreefour">Mercadotecnia Internacional</string>
+    <string name="includecareerthree_txt_Degreefive">Seguridad Pública</string>
+    <string name="includecareerthree_txt_Degreesix">Administración y Gestión Pública</string>
+    <string name="includecareerthree_txt_Degreeseven">Gestion y Administración de PyME</string>
+
+
+    <!--fragment_examtips-->
+
+
+    <string name="examtips_txt_tiptitle">Tips de examen</string>
+    <string name="examtips_txt_tipone">Presentar el examen también lleva un proceso, de preferencia hazlo en un momento donde
+    creas no se saturaria la plataforma y sobre todo donde no tengas que interrumpirlo</string>
+    <string name="examtips_txt_tiptwo">La Universidad en Linea no proporciona guías de estudio como tal así que te recomendamos investigues y descargues
+        guías de estudios para la universidad</string>
+    <string name="examtips_txt_tipthree">Al elegir la carrera a la que quieres ingresar se te proporciona
+        una lista de temas para que te des una idea de lo que se necesita estudiar, dependiendo de la carrera a la que quieras ingresar, son los temas que se te proporciona y es en los que deberías centrarte.</string>
+    <string name="examtips_txt_tipfour">Dedicale tiempo para estudiar e investigar tus guías</string>
+    <string name="examtips_txt_tipfive">Al momento de presentar el examen hazlo en un lugar tranquilo , ya que se requiere
+    la mayor concentración. Además de que se necesita la mayor cobertura de internet</string>
+    <string name="examtips_txt_six">En el examen tienen un tiempo definido para responder todo, así que concéntrate y si alguna
+     pregunta o ejercicio no te sabes pasa a la siguiente, es mejor responder con seguridad y rapidez las que sepas y luego podrás
+     regresar con las que se te dificultan
+    </string>
+    <string name="examtips_txt_seven">Es probable que durante el examen surjan complicaciones por fallos del sistema o de la plataforma, lee con cuidado los mensajes de alerta para
+        poder regresar a tu examen, no te aturdas y sigue las instrucciones, ten a mano tus folios y contraseñas que se te
+        proporcionan </string>
+    <string name="examtips_txt_eigth">Antes de entrar a presentar el examen borra el historial de navegación, limpia cookies y cache. Evita abrir otras ventanas en tu navegador para evitar conflictos</string>
+
+
+
+
+
+
+
+    <!--step one process detail 1-->
+
+    <string name="detail_txt_importantrecommendation">Una súper recomendación es realizar todo el proceso en una computadora ya que en el móvil no
+aparece toda la información y por el tamaño no logramos encontrar muchas cosas y la carga igual se hace más pesada en el móvil
+</string>
+    <string name="detail_txt_description">Llena tu solicitud de registro\nEn este proceso se elige la carrera a la que quieres ingresar y tu curp será de importancia para empezar el registro, además se requiere de un correo electrónico personal y activo.
+        Al final del registro se te otorgara el folio como aspirante y de tu contraseña para poder acceder a la plataforma</string>
+    <string name="detail_txt_recommendation1">Tendrás que subir a la plataforma de registro, en formato digital la siguiente documentación:\n-Certificado de bachillerato\n-Clave Única de Registro de Población (CURP)
+    -Identificación oficial con fotografía y Comprobante de domicilio (no mayor a tres meses)</string>
+    <string name="detail_txt_recommendation2">La documentación digital se recomienda tenerla en formato PDF (no especifican que tiene que ser pdf pero al momento de seguir el
+        proceso si te piden estén en ese formato)</string>
+    <string name="detail_txt_recommendation3">Al momento de subir la documentación revisar con calma que es correcto el que se está subiendo</string>
+    <string name="detail_txt_recommendation4">Leer detenidamente todo el documento y lo que se requiera ya que en ocasiones no encontramos
+        lo que necesitamos hacer y perdemos de vista opciones y botones </string>
+
+
+    <!--step two process detail 2-->
+    <string name="detailsteptwo_txt_description">Se debe responder una encuesta sociodemográfica. Esta es la segunda fase del proceso de registro para el examen una vez ya obteniendo tu folio como aspirante.
+        Mismo que te servirá para poder acceder a este siguiente paso.
+    Es una encuesta sobre el conocimiento que se tiene de temas específicos de la vida cotidiana y de temas de tecnología, que tanto se sabe de plataformas académicas,
+        uso básico de computadoras y navegadores, bibliotecas virtuales etc</string>
+
+    <string name="detailsteptwo_txt_importantrecommendation">Es importante disponer del tiempo cuando se realice la encuesta sociodemográfica ya que se da un tiempo específico</string>
+
+    <string name="detailsteptwo_txt_recommendation1">Tienes que responder a todas las preguntas para poder cerrar el proceso, es decir, el sistema te indicara que te hace falta alguna pregunta por responder
+        ya que no te dejara guardar las repuestas que ya tengas</string>
+    <string name="detailsteptwo_txt_recommendation2">En caso de no concluir con el llenado de la encuesta sociodemográfica en el periodo señalado las y los aspirantes no podrán continuar en el proceso de admisión</string>
+    <string name="detailsteptwo_txt_recommendation3"></string>
+    <string name="detailsteptwo_txt_recommendation4"></string>
+
+
+    <!--step three process detail 3-->
+    <string name="detailstepthree_txt_description">Esta fase se refiere a la resolución del examen de admisión</string>
+
+    <string name="detailstepthree_txt_importantrecommendation">Es importante disponer del tiempo cuando se realice este proceso ya que de igual manera se da un tiempo específico para reaizarlo</string>
+
+    <string name="detailstepthree_txt_recommendation1">El Cuestionario único de habilidades, tiene preguntas y ejercicios dependiendo de la carrera que elijas, desde el principio
+        se te brinda una lista de temas, prepárate lo necesario para poder ingresar</string>
+    <string name="detailstepthree_txt_recommendation2">Responde rápidamente las preguntas que con seguridad sabes y deja para de ultimo las que se te compliquen, es mejor terminar con lo que es seguro se sabe y no perder el tiempo con lo que no, así podrás
+        regresar y ya tomar el tiempo que resta para resolver las que se te dificultan</string>
+    <string name="detailstepthree_txt_recommendation3">Algunas recomendaciones técnicas:\n-Realiza el cuestionario en una computadora\n-Elije un navegador seguro\n-Limpia la cache y
+        el historial del navegador\n-No abras más ventanas que el del cuestionario</string>
+    <string name="detailstepthree_txt_recommendation4"></string>
+
+
+    <!--step four process detail 4-->
+    <string name="detailstepfour_txt_description">Se requiere tomar un curso, en las fechas y horarios establecidos (revisar fechas y horarios específicos
+    en la descarga de la convocatoria que proporciona la página)
+    </string>
+
+    <string name="detailstepfour_txt_importantrecommendation">Cabe mencionar que esta fase se volvió un excelente filtro para la selección de alumnos que tenían el perfil
+        para quedarse en los estudios a distancia</string>
+
+    <string name="detailstepfour_txt_recommendation1">En caso de no participar y acreditar en tiempo y forma en el curso las y
+los aspirantes no podrán continuar en el proceso de admisión</string>
+    <string name="detailstepfour_txt_recommendation2">Es parte de los puntos que contaran para ganarte un lugar</string>
+    <string name="detailstepfour_txt_recommendation3">Debes esforzarte para hacer cada etapa de forma correcta y obtener los mejores
+        resultados y ocupar uno de los lugares en la Universidad en Linea</string>
+    <string name="detailstepfour_txt_recommendation4"></string>
+
+
+    <!--step five process detail 5-->
+    <string name="detailstepfive_txt_description"> En este proceso se dan a conocer lo folios de los aspirantes  que fueron
+    aceptados como estudiantes
+    </string>
+
+    <string name="detailstepfive_txt_importantrecommendation">A partir de la fecha establecida de la
+        publicación de folios aceptados, revisa la plataforma para saber si fuiste aceptado ya que no te envían un correo como tal, con tus contraseñas y
+        folios puedes revisar esta fase</string>
+
+    <string name="detailstepfive_txt_recommendation1">Tienes que ir en la página de la convocatoria,
+        dirigirte a la fase que corresponde que es la 5 y ahí accedes con tu folio como aspirante y tu contraseña </string>
+    <string name="detailstepfive_txt_recommendation2">Te llega un mensaje de bienvenida, informándote si fuiste admitido o rechazado como estudiante y en ocasiones también se
+        encuentra el resultado que se obtuvo en el examen</string>
+    <string name="detailstepfive_txt_recommendation3">Aún con un buen resultado, depende de la demanda académica que haya serás o no admitido</string>
+    <string name="detailstepfive_txt_recommendation4">Si fuiste aceptado, en el mensaje te dice que debes prestar atención a los avisos e instrucciones que te van a llegar a través de la página
+        oficial o por correo electrónico, para seguir con el proceso.\nSi no fuiste aceptado, solamente te dice que no fue posible otorgarte un lugar en la universidad y
+        que puedes participar en los próximos procesos</string>
+
+
+    <!--step six process detail 6-->
+    <string name="detailstepsix_txt_description">Las y los aspirantes que cumplan con las fases establecidas en la presente
+convocatoria, recibirán una notificación vía correo electrónico por parte de la Dirección de Asuntos Escolares y Apoyo a Estudiantes del 27 noviembre
+al 03 diciembre del 2023 con los documentos que deben presentar (y sus
+especificaciones) para revisión e iniciar el proceso de inscripción
+    </string>
+
+    <string name="detailstepsix_txt_importantrecommendation">Se envía un correo para  requisitar algún documento específico de los
+        documentos necesarios para la inscripción</string>
+    <string name="detailstepsix_txt_recommendation1">En esta fase, como en las anteriores debes de tener paciencia con la llegada
+del aviso para realizar la inscripción. Ve revisando la plataforma y tu correo electrónico para estar al tanto
+</string>
+    <string name="detailstepsix_txt_recommendation2"></string>
+    <string name="detailstepsix_txt_recommendation3"></string>
+    <string name="detailstepsix_txt_recommendation4"></string>
+
+
+    <!--step seven process detail 7-->
+
+    <string name="detailstepseven_txt_description"> Las y los estudiantes de nuevo ingreso tendrán distintas actividades de inducción, que les permitirán conocer y disponer de la información necesaria
+para la inscripción y el inicio de clases.
+Las fechas de las actividades se comunicarán por correo electrónico institucional a las y los estudiantes.
+Inicio de semestre: 22 enero del 2024
+    </string>
+
+    <string name="detailstepseven_txt_importantrecommendation">Este es un curso, es muy importante para poder desarrollar habilidades para la modalidad a distancia</string>
+    <string name="detailstepseven_txt_recommendation1">Te servirá como experiencia que te ayudará a dar el siguiente paso como estudiante</string>
+    <string name="detailstepseven_txt_recommendation2">En estos cursos te darán una idea de cómo será cuando empieces a estudiar y te enseñarán las herramientas necesarias que te servirán durante tu carrera, además,
+        de que te servirá para darte una idea de cómo podrás interactuar con tus compañeros y maestros</string>
+    <string name="detailstepseven_txt_recommendation3"></string>
+    <string name="detailstepseven_txt_recommendation4"></string>
+
+
+
+    <!--fragment_registration_process-->
+
+    <string name="registrationprocess_txt_registrationtitle">Convocatoria Universidad en Linea 2023</string>
+    <string name="registrationprocess_txt_processdescription">La primera de ellas se publica generalmente en febrero para así iniciar el ciclo escolar en el mes de agosto\n
+La segunda se da a conocer en julio para comenzar los estudios en enero, pero , las fechas suelen cambiar sin previo aviso o incluso llega a cancelarse.
+En cualquiera de sus convocatorias puedes participar por un lugar en sus 21 licenciaturas que se encuentran disponibles.
+El proceso así como la modalidad de estudio de la convocatoria Universidad en Linea es completamente en línea como su nombre lo menciona, ¡todo es electrónico!</string>
+    <string name="registrationprocess_txt_importantrecommendation">Te recomendamos iniciar tu proceso al principio de fechas establecidas ya que siempre surgen contratiempos
+    inesperados y mientras mas dejes pasar , se satura la plataforma y por cualquier inconveniente tengas tiempo de
+    realizar cada uno de los procesos</string>
+    <string name="registrationprocess_txt_instruction">Darle clic en el paso para ver mas detalles</string>
+
+
+
+    <string name="registrationprocess1_txt_TitleStep0ne">Obtención de folio como aspirante y carga de documentos personales a plataforma</string>
+    <string name="registrationprocess1_txt_textStep0ne">Fase 1</string>
+    <string name="registrationprocess1_txt_startdate">24 de julio\n(a partir de las 9:00 am)</string>
+    <string name="registrationprocess1_txt_enddate">06 de agosto\n(hasta las 12:00 am</string>
+
+
+    <string name="registrationprocess2_txt_TitleStepTwo">Llenado de encuesta sociodemográfica</string>
+    <string name="registrationprocess2_txt_textStepTwo">Fase 2</string>
+    <string name="registrationprocess2_txt_startdate">14 de agosto\n(a partir de las 9:00 am)</string>
+    <string name="registrationprocess2_txt_enddate">20 agosto\n(hasta las 12:00 am)</string>
+
+    <string name="registrationprocess3_txt_TitleStepThree">Resolución del Cuestionario Único de Habilidades</string>
+    <string name="registrationprocess3_txt_textStepThree">Fase 3</string>
+    <string name="registrationprocess3_txt_startdate">04 de septiembre\n(a partir de las 9:00 am)</string>
+    <string name="registrationprocess3_txt_enddate">17 de septiembre\n(hasta las 12:00 am)</string>
+
+    <string name="registrationprocess4_txt_TitleStepFour">Curso de ingreso</string>
+    <string name="registrationprocess4_txt_textStepFour">Fase 4</string>
+    <string name="registrationprocess4_txt_startdate">16 de octubre\n(a partir de las 9:00 am)</string>
+    <string name="registrationprocess4_txt_enddate">29 octubre\n(hasta las 12:00 am)</string>
+
+
+
+    <string name="registrationprocess5_txt_TitleStepFive">Publicación de folios aceptados como estudiantes</string>
+    <string name="registrationprocess5_txt_textStepFive">Fase 5</string>
+    <string name="registrationprocess5_txt_startdate">a partir de las 09:00 am del 27 noviembre</string>
+    <string name="registrationprocess5_txt_enddate"></string>
+
+
+    <string name="registrationprocess6_txt_TitleStepsix">Registro de aspirantes aceptados</string>
+    <string name="registrationprocess6_txt_textStepsix">Fase 6</string>
+    <string name="registrationprocess6_txt_startdate">27 noviembre 2023</string>
+    <string name="registrationprocess6_txt_enddate">03 diciembre</string>
+
+
+    <string name="registrationprocess7_txt_TitleStepSeven">Inducción a la vida universitaria de estudiantes de nuevo ingreso</string>
+    <string name="registrationprocess7_txt_textStepSeven">Fase 7</string>
+    <string name="registrationprocess7_txt_startdate">Se comunicará por correo</string>
+    <string name="registrationprocess7_txt_enddate"></string>
+
+    <string name="registrationprocess_txt_Startofclasses">Inicio de clases\n22 de enero 2024</string>
+
+
+    <!--fragment_requirements_recomendations-->
+
+    <string name="requirementsrecommendations_txt_title">Requisitos y recomendaciones</string>
+    <string name="requirementsrecommendations_txt_requirements">Requisitos</string>
+    <string name="requirementsrecommendations_txt_requirementsone">Ser de nacionalidad mexicana y sin estudios previos
+    de nivel superior</string>
+    <string name="requirementsrecommendations_txt_requirementstwo">Contar con correo electrónico activo y en uso ya que es el medio de comunicación durante el proceso</string>
+    <string name="requirementsrecommendations_txt_requirementsthree">Contar con los siguientes documentos\n1-Acta de nacimiento (anverso y reverso, incluso si no contiene imagen
+alguna)\n2-Clave Única de Registro de Población (CURP) certificada con la leyenda:
+“verificada con el registro civil ”\n3-Certificado de nivel medio superior, bachillerato o equivalente a
+bachillerato (anverso y reverso, incluso si no contiene imagen alguna)\n4-Identificación oficial vigente con fotografía
+y firma (anverso y reverso)\n5-Fotografía digital: Reciente, medidas 3 x 2.5 cm., blanco y negro,
+fondo blanco, sin retoque, de frente, rostro serio y vestimenta formal</string>
+    <string name="requirementsrecommendations_txt_four"> Tener acceso a computadora con conexión a internet
+para realizar el proceso de admisión y posterior para poder realizar las actividades académicas
+</string>
+
+    <string name="requirementsrecommendations_txt_recommendations">Recomendaciones</string>
+    <string name="requirementsrecommendations_txt_recommendationsone">Lee detenidamente cada fase del proceso</string>
+    <string name="requirementsrecommendations_txt_recommendationstwo">Todo el proceso es a base de computadora, internet y medios tecnológicos, así que ten mucha paciencia. Incluso ese será tu medio de estudio,
+        así que debes tener conocimientos y gusto por la tecnología</string>
+    <string name="requirementsrecommendations_txt_recommendationsthree">Revisa constantemente la plataforma para no perderte de ningún aviso</string>
+
+
+
+</resources>

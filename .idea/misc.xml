@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/drawable/backgroun_rec.xml" value="0.237" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/drawable/ic_about.xml" value="0.1185" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/drawable/ic_add.xml" value="0.1625" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/drawable/ic_exam_tips.xml" value="0.1185" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/drawable/ic_expand_less.xml" value="0.1625" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/drawable/ic_expand_more.xml" value="0.1185" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/drawable/ic_home.xml" value="0.1185" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/drawable/ic_linea_horizontal.xml" value="0.237" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/drawable/ic_menu.xml" value="0.1185" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/drawable/ic_registration_process.xml" value="0.1185" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/drawable/ic_requirements_recommendations.xml" value="0.1185" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/drawable/ic_school.xml" value="0.1185" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/drawable/round_check_circle.xml" value="0.1625" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/layout/app_bar_main.xml" value="0.18478260869565216" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/layout/content_main.xml" value="0.358695652173913" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/layout/fragment_about.xml" value="0.35104166666666664" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/layout/fragment_examtips.xml" value="0.2713541666666667" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/layout/fragment_home.xml" value="0.2713541666666667" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/layout/fragment_processdetail.xml" value="0.2713541666666667" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/layout/fragment_registration_process.xml" value="0.25" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/layout/fragment_requirements_recommendations.xml" value="0.2713541666666667" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/layout/include_career_one.xml" value="0.2713541666666667" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/layout/include_career_three.xml" value="0.2713541666666667" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/layout/include_career_two.xml" value="0.2713541666666667" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/layout/nav_header_main.xml" value="0.32395833333333335" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/layout/row_process_detail.xml" value="0.2713541666666667" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/menu/activity_main_drawer.xml" value="0.2713541666666667" />
+        <entry key="..\:/android_archivos/apoyoulineav2/app/src/main/res/menu/main.xml" value="0.2713541666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

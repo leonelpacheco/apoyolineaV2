@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.core.widget.NestedScrollView
+        android:id="@+id/nestedScrollView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:fillViewport="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.52">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/grey_10"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="5dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/txt_applicationtitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="24dp"
+                        android:layout_marginTop="24dp"
+                        android:text="@string/designsabout_txt_title"
+                        android:textSize="30sp"
+                        android:textStyle="bold"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <View
+                        android:id="@+id/view4"
+                        android:layout_width="200dp"
+                        android:layout_height="5dp"
+                        android:background="@color/green_unadmdos"
+                        app:layout_constraintEnd_toEndOf="@+id/txt_applicationtitle"
+                        app:layout_constraintHorizontal_bias="0.0"
+                        app:layout_constraintStart_toStartOf="@+id/txt_applicationtitle"
+                        app:layout_constraintTop_toBottomOf="@+id/txt_applicationtitle" />
+
+                    <TextView
+                        android:id="@+id/txt_textversion"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="24dp"
+                        android:text="@string/designsabout_txt_textversion"
+                        app:layout_constraintStart_toStartOf="@+id/txt_applicationtitle"
+                        app:layout_constraintTop_toBottomOf="@+id/view4" />
+
+                    <TextView
+                        android:id="@+id/txt_version"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:text="@string/designsabout_txt_version"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        app:layout_constraintStart_toStartOf="@+id/txt_textversion"
+                        app:layout_constraintTop_toBottomOf="@+id/txt_textversion" />
+
+                    <TextView
+                        android:id="@+id/txt_textlastupdate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="24dp"
+                        android:text="@string/designsabout_txt_textlastupdate"
+                        app:layout_constraintStart_toStartOf="@+id/txt_version"
+                        app:layout_constraintTop_toBottomOf="@+id/txt_version" />
+
+                    <TextView
+                        android:id="@+id/txt_lastupdate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:text="@string/designsabout_txt_lastupdate"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        app:layout_constraintStart_toStartOf="@+id/txt_textlastupdate"
+                        app:layout_constraintTop_toBottomOf="@+id/txt_textlastupdate" />
+
+                    <TextView
+                        android:id="@+id/txt_textahutor"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="24dp"
+                        android:text="@string/about_txt_textahutor"
+                        app:layout_constraintStart_toStartOf="@+id/txt_lastupdate"
+                        app:layout_constraintTop_toBottomOf="@+id/txt_lastupdate" />
+
+                    <TextView
+                        android:id="@+id/txt_ahutor"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:text="@string/about_txt_ahutor"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        app:layout_constraintStart_toStartOf="@+id/txt_textahutor"
+                        app:layout_constraintTop_toBottomOf="@+id/txt_textahutor" />
+
+                    <TextView
+                        android:id="@+id/txt_textcompany"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="24dp"
+                        android:text="@string/about_txt_textcompany"
+                        app:layout_constraintStart_toStartOf="@+id/txt_ahutor"
+                        app:layout_constraintTop_toBottomOf="@+id/txt_ahutor" />
+
+                    <TextView
+                        android:id="@+id/txt_company"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginEnd="16dp"
+                        android:text="@string/about_txt_company"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="@+id/txt_textcompany"
+                        app:layout_constraintTop_toBottomOf="@+id/txt_textcompany" />
+
+                    <TextView
+                        android:id="@+id/txt_about"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="24dp"
+                        android:layout_marginEnd="16dp"
+                        android:text="@string/designsabout_txt_about"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="@+id/txt_company"
+                        app:layout_constraintTop_toBottomOf="@+id/txt_company" />
+
+                    <TextView
+                        android:id="@+id/txt_textprivacypolicies"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:text="@string/about_txt_textprivacypolicies"
+                        app:layout_constraintStart_toStartOf="@+id/txt_about"
+                        app:layout_constraintTop_toBottomOf="@+id/txt_about" />
+
+                    <TextView
+                        android:id="@+id/txt_privacypolicies"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginEnd="16dp"
+                        android:layout_marginBottom="24dp"
+                        android:autoLink="web"
+                        android:text="@string/about_txt_privacypolicies"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="@+id/txt_textprivacypolicies"
+                        app:layout_constraintTop_toBottomOf="@+id/txt_textprivacypolicies" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
